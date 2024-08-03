@@ -1,6 +1,4 @@
-# Ameer Majeed
+# ameer majeed
+ai researcher specializing in computer vision, image processing, and optical character recognition
 
-## TEST TEST
-
-
-#### this is a random line of text
+Contact: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)

@@ -1,6 +1,6 @@
-> email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)`
+> email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 
-> github: [ameermajeed](https://github.com/ameermajeed)`
+> github: [ameermajeed](https://github.com/ameermajeed)
 
 ## education
 bachelor of science in computer science 

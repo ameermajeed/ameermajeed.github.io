@@ -30,14 +30,14 @@ research intern - university of kurdistan hewler, iraq (august 2023 - september 
 
 data science trainee - ovanya, iraq (febraury 2022 - april 2022)
 
-##projects
+## projects
 Optical Character Recognition for Handwritten Syriac Text: 
 > This project aims to develop an Optical Character Recognition (OCR) model so as to recognize handwritten text of the Syriac language and output them in a digitized format using fine-tuning of the Tesseract-OCR engine’s LSTM pre-trained model on handwritten data. And it also seeks to bring forth a dataset that consists of handwritten Syriac sentences, of which were collected from volunteers that are capable of reading and writing in the language.
 
-##publications
+## publications
 > N/A
 
-##awards & honors
+## awards & honors
 first place in the 11th undergraduate research and innovation competition (uric)
 abu dhabi university, united arab emirates
 * category: artificial intelligence and machine learning
@@ -48,9 +48,9 @@ university of kurdistan hewler, erbil, iraq
 ukh undergraduate scholarship
 university of kurdistan hewler (ukh), iraq
 
-##extracurricular activities
+## extracurricular activities
 
-##languages
+## languages
 kurdish - native
 arabic - fluent
 english - fluent

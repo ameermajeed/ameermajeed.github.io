@@ -1,5 +1,6 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: ameer majeed
+logo: image.png
 description: ai researcher specializing in computer vision, image processing, and optical character recognition

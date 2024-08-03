@@ -1,6 +1,6 @@
 ![picture of me](image.png)
 
-_<code style="color : darkorange">ai researcher specializing in computer vision, image processing, and optical character recognition</code>_
+_<code style="color : purple">ai researcher specializing in computer vision, image processing, and optical character recognition</code>_
 
 > email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 
@@ -9,18 +9,6 @@ _<code style="color : darkorange">ai researcher specializing in computer vision,
 ## education
 __bachelor of science in computer science__
 - university of kurdistan hewler, iraq (2020 - 2024)
-
-## skills
-### programming languages:
-* python
-
-### libraries and tools:
-* tesseract-ocr
-* opencv
-* pillow
-* numpy
-* pandas
-* matplotlib
 
 ## work experience
 __data scientist__ - ovanya, iraq (july 2024 - now)
@@ -37,6 +25,18 @@ __Optical Character Recognition for Handwritten Syriac Text:__
 
 ## publications
 > N/A
+
+## skills
+### programming languages:
+* python
+
+### libraries and tools:
+* tesseract-ocr
+* opencv
+* pillow
+* numpy
+* pandas
+* matplotlib
 
 ## awards & honors
 __first place in the 11th undergraduate research and innovation competition (uric)__ - abu dhabi university, united arab emirates

@@ -49,7 +49,7 @@ __Member__  - General Union of Kurdistan Students, Iraq (July 2023 - Now)
 __Representative of the School of Science and Engineering__ - UKH Student Union (December 2021 - August
 2022)
 
-## Languages
+## Human Languages
 __Kurdish__ - Native
 
 __Arabic__ - Fluent
@@ -57,3 +57,20 @@ __Arabic__ - Fluent
 __English__ - Fluent
 
 __Chaldean Neo-aramaic__ - Intermediate
+
+## What I Believe
+> I believe in the synergy of two things: egalitarianism and libertarianism. I can not imagine a world where my freedom is substituted for something material, nor is it fathomable to my conscience that someone, somewhere on this planet is deprived of the very things I take for granted, be it food, shelter, clothing, etc.. Call it what you want: anarchist, libertatian socialist, leftist, or whichever term you prefer. All that I know is that the pursuit of a well-deserved life for all of humanity is a meaningful pursuit to me, and I despise all those who deprive humans of their natural rights. Everyone deserves the produce of mother nature, and mother nature requires us to care for it and not result in its annihilation.
+
+## Favore Books
+- Rebel - Albert Camus
+- Zorba the Greek - Nikos Kazantzakis
+- ئێستا کچێک نیشتیمانمە - شێرکۆ بێکەس
+- چوارینەکانی خەیام - وەرگێڕانی مامۆستا هەژار
+- In Praise of Idleness - Bertrand Russell
+- The World as I See It - Alber Einstein
+
+## Favorite Movies/Shows
+- UP: The Movie
+- The Big Bang Theory
+- How I Met Your Mother
+- Howl's Moving Castle

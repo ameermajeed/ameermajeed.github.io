@@ -1,3 +1,5 @@
+![some random picture of me](image.png)
+
 ai researcher specializing in computer vision, image processing, and optical character recognition
 - email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 * github: [ameermajeed](https://github.com/ameermajeed)

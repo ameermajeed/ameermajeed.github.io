@@ -1,12 +1,12 @@
 ![picture of me](image.png)
 
-_ai researcher specializing in computer vision, image processing, and optical character recognition_
+<code style="color : red">_ai researcher specializing in computer vision, image processing, and optical character recognition_</code>
 
 > email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 
 > github: [ameermajeed](https://github.com/ameermajeed)
 
-## <code style="color : aqua">education</code>
+## education
 bachelor of science in computer science 
 - university of kurdistan hewler, iraq (2020 - 2024)
 

@@ -8,13 +8,13 @@ ai researcher specializing in computer vision, image processing, and optical cha
 
 ## skills:
 - programming languages:
- * python
+  * python
 - libraries and tools:
- * tesseract-ocr
- * opencv
- * pillow
- * numpy
- * pandas
- * matplotlib
+  * tesseract-ocr
+  * opencv
+  * pillow
+  * numpy
+  * pandas
+  * matplotlib
 
 

@@ -42,11 +42,13 @@ __Optical Character Recognition for Handwritten Syriac Text:__
 __first place in the 11th undergraduate research and innovation competition (uric)__ - abu dhabi university, united arab emirates
 * category: artificial intelligence and machine learning
 
-__3rd place in ukh statistics poster competition__ - university of kurdistan hewler, iraq
-
-__ukh undergraduate scholarship__ - university of kurdistan hewler (ukh), iraq
+__ukh undergraduate scholarship__ - university of kurdistan hewler, iraq
 
 ## extracurricular activities
+__member__  - general union of kurdistan students, iraq (july 2023 - Now)
+
+__representative of the school of science and engineering__ - ukh student union (december 2021 - august
+2022)
 
 ## languages
 __kurdish__ - native

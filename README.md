@@ -1,6 +1,6 @@
 ![picture of me](image.png)
 
-_<code style="color : purple">AI Researcher Specializing in Computer Vision, Image Processing, and Optical Character Recognition</code>_
+### _<code style="color : purple">AI Researcher Specializing in Computer Vision, Image Processing, and Optical Character Recognition</code>_
 
 > Email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 

@@ -1,8 +1,9 @@
 ![picture of me](image.png)
 
-_<code style="color : red">ai researcher specializing in computer vision, image processing, and optical character recognition</code>_
+_<code style="color : darkorange">ai researcher specializing in computer vision, image processing, and optical character recognition</code>_
 
 > email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
+
 > github: [ameermajeed](https://github.com/ameermajeed)
 
 ## education

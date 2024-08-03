@@ -7,8 +7,7 @@ _<code style="color : purple">ai researcher specializing in computer vision, ima
 > github: [ameermajeed](https://github.com/ameermajeed)
 
 ## education
-__bachelor of science in computer science__
-- university of kurdistan hewler, iraq (2020 - 2024)
+__bachelor of science in computer science__ - university of kurdistan hewler, iraq (2020 - 2024)
 
 ## work experience
 __data scientist__ - ovanya, iraq (july 2024 - now)

@@ -1,4 +1,3 @@
-![some random picture of me](image.png)
 - email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 * github: [ameermajeed](https://github.com/ameermajeed)
 

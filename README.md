@@ -68,6 +68,7 @@ __Chaldean Neo-aramaic__ - Intermediate
 - چوارینەکانی خەیام - وەرگێڕانی مامۆستا هەژار
 - In Praise of Idleness - Bertrand Russell
 - The World as I See It - Alber Einstein
+- Vocation Lectures - Max Weber
 
 ## Favorite Movies/Shows
 - UP: The Movie

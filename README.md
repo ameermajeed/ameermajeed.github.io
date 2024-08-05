@@ -1,6 +1,7 @@
 ![picture of me](image.png)
 
-### _<code style="color : purple">AI Researcher Specializing in Computer Vision, Image Processing, and Optical Character Recognition</code>_
+ _<code style="color : purple">AI Researcher Specializing in Computer Vision, 
+ Image Processing, and Optical Character Recognition</code>_
 
 > Email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
 
@@ -10,7 +11,7 @@
 __Bachelor of Science in Computer Science__ - University of Kurdistan Hewler, Iraq (2020 - 2024)
 
 ## Work Experience
-__Data Scientist__ - Ovanya, Iraq (July 2024 - Now)
+__Data Science Intern__ - Ovanya, Iraq (July 2024 - August 2024)
 
 __Research Assistant__ - Nishtman Strategy Institute, Iraq (May 2023 - April 2024)
 

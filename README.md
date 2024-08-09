@@ -14,7 +14,9 @@ __Data Science Trainee__ - Ovanya, Iraq (Febraury 2022 - April 2022)
 
 ## Projects
 __Optical Character Recognition for Handwritten Syriac Text:__ 
-> This project aims to develop an Optical Character Recognition (OCR) model so as to recognize handwritten text of the Syriac language and output them in a digitized format using fine-tuning of the Tesseract-OCR engine’s LSTM pre-trained model on handwritten data. And it also seeks to bring forth a dataset that consists of handwritten Syriac sentences, of which were collected from volunteers that are capable of reading and writing in the language.
+> This project aims to develop an Optical Character Recognition (OCR) model so as to recognize handwritten text of the Syriac language and output them in a digitized format using fine-tuning of the Tesseract-OCR engine’s pre-trained model on handwritten data.
+__KHAMIS East Syriac Sentence Dataset:__ 
+> N/A
 
 ## Publications
 > N/A
@@ -68,5 +70,5 @@ __Chaldean Neo-aramaic__ - Intermediate
 - Howl's Moving Castle
 
 ## What I Believe
-> Rarely do you witness technical people speaking politics or sharing their opinions on subject matters that stir controversy or even arguments whether online or in the workplace. For me, I was just raised in such an environment that required me to speak political lingo and speak freely. Personally, I believe in the synergy of two things: egalitarianism and libertarianism. I can not imagine a world where my freedom is substituted for something material, nor is it fathomable to my conscience that someone, somewhere on this planet is deprived of the very things I take for granted, be it food, shelter, clothing, etc.. I don't believe in borders nor do I believe man-made or natural difference like ethnicity, religion, or political ideology shall make me indifferent to the struggles of another person. Call it what you want: anarchist, libertatrian socialist, leftist, or whichever term you prefer. All that I know is that the pursuit of a well-deserved life for all of humanity is a meaningful pursuit for me. Everyone deserves the produce of mother nature, and mother nature requires us to care for it and not result in its destruction.
+> Rarely do you witness technical people speaking politics or sharing their opinions on subject matters that stir controversy or even arguments whether online or in the workplace. For me, I was just raised in such an environment that required me to speak political lingo and speak freely. Personally, I believe in the synergy of two things: egalitarianism and libertarianism. I can not imagine a world where my freedom is substituted for something material, nor is it fathomable to my conscience that someone, somewhere on this planet is deprived of the very things I take for granted, be it food, shelter, clothing, etc.. I don't believe in borders nor do I believe man-made or natural difference like ethnicity, religion, or political ideology shall make me indifferent to the struggles of another person. Call it what you want: anarchist, libertarian socialist, leftist, or whichever term you prefer. All that I know is that the pursuit of a well-deserved life for all of humanity is a meaningful pursuit for me. Everyone deserves the produce of mother nature, and mother nature requires us to care for it and not result in its destruction.
 

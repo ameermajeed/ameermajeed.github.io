@@ -1,5 +1,3 @@
-![picture of me](image.png)
-
 ## Education
 __Bachelor of Science in Computer Science__ - University of Kurdistan Hewler, Iraq (2020 - 2024)
 

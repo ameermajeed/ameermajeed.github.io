@@ -13,6 +13,7 @@ __Data Science Trainee__ - Ovanya, Iraq (Febraury 2022 - April 2022)
 ## Projects
 __Optical Character Recognition for Handwritten Syriac Text:__ 
 > This project aims to develop an Optical Character Recognition (OCR) model so as to recognize handwritten text of the Syriac language and output them in a digitized format using fine-tuning of the Tesseract-OCR engine’s pre-trained model on handwritten data.
+
 __KHAMIS East Syriac Sentence Dataset:__ 
 > N/A
 

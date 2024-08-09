@@ -1,12 +1,5 @@
 ![picture of me](image.png)
 
- _<code style="color : purple">AI Researcher Specializing in Computer Vision, 
- Image Processing, and Optical Character Recognition</code>_
-
-> Email: [ameer.ha.majeed@gmail.com](ameer.ha.majeed@gmail.com)
-
-> Github: [ameermajeed](https://github.com/ameermajeed)
-
 ## Education
 __Bachelor of Science in Computer Science__ - University of Kurdistan Hewler, Iraq (2020 - 2024)
 

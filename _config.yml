@@ -8,5 +8,6 @@ email: ameer.ha.majeed@gmail.com
 twitter_username: ameermajeedcv
 github_username: ameermajeed
 remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
 plugins:
 - jekyll-remote-theme 

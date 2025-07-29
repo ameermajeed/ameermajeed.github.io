@@ -1,0 +1,112 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f7e5d2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid #75b855;
+    padding-bottom: 1rem;
+}
+
+.profile-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.profile-image {
+    width: 170px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #4e9a37;
+}
+
+.profile-text {
+    text-align: left;
+    
+}
+
+h1 {
+    color: #2e6020;
+    font-size: 1.6rem;
+    margin: 0 0 0.3rem 0;
+}
+
+.subtitle {
+    color: #7f2618;
+    font-style: italic;
+    margin: 0;
+}
+
+h2 {
+    color: #2e6020;
+    font-size: 1.2rem;
+    margin: 1rem 0 0.5rem 0;
+    border-left: 3px solid #75b855;
+    padding-left: 0.5rem;
+}
+
+p {
+    margin: 0 0 0.8rem 0;
+    font-size: 0.95rem;
+}
+
+.section {
+    margin-bottom: 1.5rem;
+    background-color: #ffeed7;
+    padding: 0.8rem;
+    border-radius: 5px;
+}
+
+.interests {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.interest-tag {
+    background-color: #75b855;
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.links a {
+    color: #7f2618;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 1.5rem;
+    color: #5a9a48;
+    font-size: 0.8rem;
+}
